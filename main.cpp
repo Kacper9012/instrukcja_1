@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 int dodaj(int a, int b) {
